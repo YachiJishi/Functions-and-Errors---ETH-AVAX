@@ -36,7 +36,7 @@ After deploying the contract, you can interact with it in various ways:
 5. **Mint Tokens**: Add tokens to a designated address by calling the `mint` function with the address and the desired number of tokens as parameters.
 6. **Burn Tokens**: Reduce or eliminate tokens from an address by specifying the address and the number of tokens to be destroyed using the `burn` function.
 
-These functionalities collectively offer a comprehensive set of options for managing and interacting with the `Func_Errors` contract on the Ethereum blockchain.
+These functionalities collectively offer a comprehensive set of options for managing and interacting with the `FuncErrors` contract on the Ethereum blockchain.
 
 ## Authors
 
